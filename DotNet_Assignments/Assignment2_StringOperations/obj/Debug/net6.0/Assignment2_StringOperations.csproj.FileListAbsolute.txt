@@ -1,0 +1,14 @@
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment2_StringOperations\bin\Debug\net6.0\Assignment2_StringOperations.exe
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment2_StringOperations\bin\Debug\net6.0\Assignment2_StringOperations.deps.json
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment2_StringOperations\bin\Debug\net6.0\Assignment2_StringOperations.runtimeconfig.json
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment2_StringOperations\bin\Debug\net6.0\Assignment2_StringOperations.dll
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment2_StringOperations\bin\Debug\net6.0\Assignment2_StringOperations.pdb
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment2_StringOperations\obj\Debug\net6.0\Assignment2_StringOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment2_StringOperations\obj\Debug\net6.0\Assignment2_StringOperations.AssemblyInfoInputs.cache
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment2_StringOperations\obj\Debug\net6.0\Assignment2_StringOperations.AssemblyInfo.cs
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment2_StringOperations\obj\Debug\net6.0\Assignment2_StringOperations.csproj.CoreCompileInputs.cache
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment2_StringOperations\obj\Debug\net6.0\Assignment2_StringOperations.dll
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment2_StringOperations\obj\Debug\net6.0\refint\Assignment2_StringOperations.dll
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment2_StringOperations\obj\Debug\net6.0\Assignment2_StringOperations.pdb
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment2_StringOperations\obj\Debug\net6.0\Assignment2_StringOperations.genruntimeconfig.cache
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment2_StringOperations\obj\Debug\net6.0\ref\Assignment2_StringOperations.dll

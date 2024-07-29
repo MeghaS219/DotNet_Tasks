@@ -1,0 +1,14 @@
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment1_ElectricityBill\bin\Debug\net6.0\Assignment1_ElectricityBill.exe
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment1_ElectricityBill\bin\Debug\net6.0\Assignment1_ElectricityBill.deps.json
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment1_ElectricityBill\bin\Debug\net6.0\Assignment1_ElectricityBill.runtimeconfig.json
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment1_ElectricityBill\bin\Debug\net6.0\Assignment1_ElectricityBill.dll
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment1_ElectricityBill\bin\Debug\net6.0\Assignment1_ElectricityBill.pdb
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment1_ElectricityBill\obj\Debug\net6.0\Assignment1_ElectricityBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment1_ElectricityBill\obj\Debug\net6.0\Assignment1_ElectricityBill.AssemblyInfoInputs.cache
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment1_ElectricityBill\obj\Debug\net6.0\Assignment1_ElectricityBill.AssemblyInfo.cs
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment1_ElectricityBill\obj\Debug\net6.0\Assignment1_ElectricityBill.csproj.CoreCompileInputs.cache
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment1_ElectricityBill\obj\Debug\net6.0\Assignment1_ElectricityBill.dll
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment1_ElectricityBill\obj\Debug\net6.0\refint\Assignment1_ElectricityBill.dll
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment1_ElectricityBill\obj\Debug\net6.0\Assignment1_ElectricityBill.pdb
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment1_ElectricityBill\obj\Debug\net6.0\Assignment1_ElectricityBill.genruntimeconfig.cache
+C:\DotNetProjectsMS\DotNet_Assignments\Assignment1_ElectricityBill\obj\Debug\net6.0\ref\Assignment1_ElectricityBill.dll
