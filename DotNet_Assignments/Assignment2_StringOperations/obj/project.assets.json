@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DotNetProjectsMS\\DotNet_Assignments\\Assignment2_StringOperations\\Assignment2_StringOperations.csproj",
-      "projectName": "Assignment2_StringOperations",
-      "projectPath": "C:\\DotNetProjectsMS\\DotNet_Assignments\\Assignment2_StringOperations\\Assignment2_StringOperations.csproj",
+      "projectUniqueName": "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\Assignment2_StringOperations\\Assignment1_StringOperations.csproj",
+      "projectName": "Assignment1_StringOperations",
+      "projectPath": "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\Assignment2_StringOperations\\Assignment1_StringOperations.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\DotNetProjectsMS\\DotNet_Assignments\\Assignment2_StringOperations\\obj\\",
+      "outputPath": "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\Assignment2_StringOperations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

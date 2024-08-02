@@ -13,7 +13,10 @@
                 if (Double.TryParse(Console.ReadLine(), out Units))
                 {
                     if (Units > 250)
+                    {
                         BillAmount = (Units - 250) * 1.5 + 100 * (1.2 + 0.75) + 50 * 0.5;
+                        BillAmount += BillAmount * 0.2;
+                    }
                     else if (Units > 150)
                         BillAmount = (Units - 150) * 1.2 + 100 * 0.75 + 50 * 0.5;
                     else if (Units > 50)

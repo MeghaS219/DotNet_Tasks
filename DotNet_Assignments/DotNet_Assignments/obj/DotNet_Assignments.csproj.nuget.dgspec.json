@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DotNetProjectsMS\\DotNet_Assignments\\DotNet_Assignments\\DotNet_Assignments.csproj": {}
+    "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\DotNet_Assignments\\DotNet_Assignments.csproj": {}
   },
   "projects": {
-    "C:\\DotNetProjectsMS\\DotNet_Assignments\\DotNet_Assignments\\DotNet_Assignments.csproj": {
+    "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\DotNet_Assignments\\DotNet_Assignments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DotNetProjectsMS\\DotNet_Assignments\\DotNet_Assignments\\DotNet_Assignments.csproj",
+        "projectUniqueName": "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\DotNet_Assignments\\DotNet_Assignments.csproj",
         "projectName": "DotNet_Assignments",
-        "projectPath": "C:\\DotNetProjectsMS\\DotNet_Assignments\\DotNet_Assignments\\DotNet_Assignments.csproj",
+        "projectPath": "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\DotNet_Assignments\\DotNet_Assignments.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\DotNetProjectsMS\\DotNet_Assignments\\DotNet_Assignments\\obj\\",
+        "outputPath": "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\DotNet_Assignments\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

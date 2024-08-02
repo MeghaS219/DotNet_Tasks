@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\Assignment2_StringOperations\\Assignment2_StringOperations.csproj": {}
+    "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\Assignment2_StringOperations\\Assignment1_StringOperations.csproj": {}
   },
   "projects": {
-    "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\Assignment2_StringOperations\\Assignment2_StringOperations.csproj": {
+    "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\Assignment2_StringOperations\\Assignment1_StringOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\Assignment2_StringOperations\\Assignment2_StringOperations.csproj",
-        "projectName": "Assignment2_StringOperations",
-        "projectPath": "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\Assignment2_StringOperations\\Assignment2_StringOperations.csproj",
+        "projectUniqueName": "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\Assignment2_StringOperations\\Assignment1_StringOperations.csproj",
+        "projectName": "Assignment1_StringOperations",
+        "projectPath": "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\Assignment2_StringOperations\\Assignment1_StringOperations.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
         "outputPath": "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\DotNet_Assignments\\Assignment2_StringOperations\\obj\\",
         "projectStyle": "PackageReference",
