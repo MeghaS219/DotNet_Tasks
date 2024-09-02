@@ -1,0 +1,14 @@
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingXML\bin\Debug\net6.0\ParsingXML.exe
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingXML\bin\Debug\net6.0\ParsingXML.deps.json
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingXML\bin\Debug\net6.0\ParsingXML.runtimeconfig.json
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingXML\bin\Debug\net6.0\ParsingXML.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingXML\bin\Debug\net6.0\ParsingXML.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingXML\obj\Debug\net6.0\ParsingXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingXML\obj\Debug\net6.0\ParsingXML.AssemblyInfoInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingXML\obj\Debug\net6.0\ParsingXML.AssemblyInfo.cs
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingXML\obj\Debug\net6.0\ParsingXML.csproj.CoreCompileInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingXML\obj\Debug\net6.0\ParsingXML.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingXML\obj\Debug\net6.0\refint\ParsingXML.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingXML\obj\Debug\net6.0\ParsingXML.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingXML\obj\Debug\net6.0\ParsingXML.genruntimeconfig.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingXML\obj\Debug\net6.0\ref\ParsingXML.dll

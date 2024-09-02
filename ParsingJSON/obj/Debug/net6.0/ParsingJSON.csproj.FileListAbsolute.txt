@@ -1,0 +1,14 @@
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingJSON\bin\Debug\net6.0\ParsingJSON.exe
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingJSON\bin\Debug\net6.0\ParsingJSON.deps.json
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingJSON\bin\Debug\net6.0\ParsingJSON.runtimeconfig.json
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingJSON\bin\Debug\net6.0\ParsingJSON.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingJSON\bin\Debug\net6.0\ParsingJSON.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingJSON\obj\Debug\net6.0\ParsingJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingJSON\obj\Debug\net6.0\ParsingJSON.AssemblyInfoInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingJSON\obj\Debug\net6.0\ParsingJSON.AssemblyInfo.cs
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingJSON\obj\Debug\net6.0\ParsingJSON.csproj.CoreCompileInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingJSON\obj\Debug\net6.0\ParsingJSON.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingJSON\obj\Debug\net6.0\refint\ParsingJSON.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingJSON\obj\Debug\net6.0\ParsingJSON.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingJSON\obj\Debug\net6.0\ParsingJSON.genruntimeconfig.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\ParsingJSON\obj\Debug\net6.0\ref\ParsingJSON.dll

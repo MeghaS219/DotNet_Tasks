@@ -1,0 +1,14 @@
+C:\DotNetProjectsMS\Git\DotNet_Tasks\Desctructorvsconstructor\bin\Debug\net6.0\Desctructorvsconstructor.exe
+C:\DotNetProjectsMS\Git\DotNet_Tasks\Desctructorvsconstructor\bin\Debug\net6.0\Desctructorvsconstructor.deps.json
+C:\DotNetProjectsMS\Git\DotNet_Tasks\Desctructorvsconstructor\bin\Debug\net6.0\Desctructorvsconstructor.runtimeconfig.json
+C:\DotNetProjectsMS\Git\DotNet_Tasks\Desctructorvsconstructor\bin\Debug\net6.0\Desctructorvsconstructor.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\Desctructorvsconstructor\bin\Debug\net6.0\Desctructorvsconstructor.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\Desctructorvsconstructor\obj\Debug\net6.0\Desctructorvsconstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProjectsMS\Git\DotNet_Tasks\Desctructorvsconstructor\obj\Debug\net6.0\Desctructorvsconstructor.AssemblyInfoInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\Desctructorvsconstructor\obj\Debug\net6.0\Desctructorvsconstructor.AssemblyInfo.cs
+C:\DotNetProjectsMS\Git\DotNet_Tasks\Desctructorvsconstructor\obj\Debug\net6.0\Desctructorvsconstructor.csproj.CoreCompileInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\Desctructorvsconstructor\obj\Debug\net6.0\Desctructorvsconstructor.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\Desctructorvsconstructor\obj\Debug\net6.0\refint\Desctructorvsconstructor.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\Desctructorvsconstructor\obj\Debug\net6.0\Desctructorvsconstructor.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\Desctructorvsconstructor\obj\Debug\net6.0\Desctructorvsconstructor.genruntimeconfig.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\Desctructorvsconstructor\obj\Debug\net6.0\ref\Desctructorvsconstructor.dll

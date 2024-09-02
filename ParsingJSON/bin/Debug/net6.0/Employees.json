@@ -1,0 +1,28 @@
+{
+    "Employees": [
+        {
+            "ID": "E001",
+            "Name": "John Doe",
+            "Department": "HR",
+            "Address": {
+                "Street": "123 Main St",
+                "City": "Springfield",
+                "State": "IL",
+                "Zip": "62701"
+            },
+            "Projects": ["Project A", "Project B"]
+        },
+        {
+            "ID": "E002",
+            "Name": "Jane Smith",
+            "Department": "Finance",
+            "Address": {
+                "Street": "456 Elm St",
+                "City": "Springfield",
+                "State": "IL",
+                "Zip": "62702"
+            },
+            "Projects": ["Project C"]
+        }
+    ]
+}
