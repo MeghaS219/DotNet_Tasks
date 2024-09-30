@@ -1,0 +1,14 @@
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\FlightManagement\bin\Debug\net6.0\FlightManagement.exe
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\FlightManagement\bin\Debug\net6.0\FlightManagement.deps.json
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\FlightManagement\bin\Debug\net6.0\FlightManagement.runtimeconfig.json
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\FlightManagement\bin\Debug\net6.0\FlightManagement.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\FlightManagement\bin\Debug\net6.0\FlightManagement.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\FlightManagement\obj\Debug\net6.0\FlightManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\FlightManagement\obj\Debug\net6.0\FlightManagement.AssemblyInfoInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\FlightManagement\obj\Debug\net6.0\FlightManagement.AssemblyInfo.cs
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\FlightManagement\obj\Debug\net6.0\FlightManagement.csproj.CoreCompileInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\FlightManagement\obj\Debug\net6.0\FlightManagement.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\FlightManagement\obj\Debug\net6.0\refint\FlightManagement.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\FlightManagement\obj\Debug\net6.0\FlightManagement.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\FlightManagement\obj\Debug\net6.0\FlightManagement.genruntimeconfig.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\FlightManagement\obj\Debug\net6.0\ref\FlightManagement.dll

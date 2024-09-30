@@ -1,0 +1,14 @@
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\ECommerceMangement\bin\Debug\net6.0\ECommerceMangement.exe
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\ECommerceMangement\bin\Debug\net6.0\ECommerceMangement.deps.json
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\ECommerceMangement\bin\Debug\net6.0\ECommerceMangement.runtimeconfig.json
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\ECommerceMangement\bin\Debug\net6.0\ECommerceMangement.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\ECommerceMangement\bin\Debug\net6.0\ECommerceMangement.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\ECommerceMangement\obj\Debug\net6.0\ECommerceMangement.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\ECommerceMangement\obj\Debug\net6.0\ECommerceMangement.AssemblyInfoInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\ECommerceMangement\obj\Debug\net6.0\ECommerceMangement.AssemblyInfo.cs
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\ECommerceMangement\obj\Debug\net6.0\ECommerceMangement.csproj.CoreCompileInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\ECommerceMangement\obj\Debug\net6.0\ECommerceMangement.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\ECommerceMangement\obj\Debug\net6.0\refint\ECommerceMangement.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\ECommerceMangement\obj\Debug\net6.0\ECommerceMangement.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\ECommerceMangement\obj\Debug\net6.0\ECommerceMangement.genruntimeconfig.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\ECommerceMangement\obj\Debug\net6.0\ref\ECommerceMangement.dll
