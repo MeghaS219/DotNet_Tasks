@@ -1,0 +1,14 @@
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\DoctorManagementSystem\bin\Debug\net6.0\DoctorManagementSystem.exe
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\DoctorManagementSystem\bin\Debug\net6.0\DoctorManagementSystem.deps.json
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\DoctorManagementSystem\bin\Debug\net6.0\DoctorManagementSystem.runtimeconfig.json
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\DoctorManagementSystem\bin\Debug\net6.0\DoctorManagementSystem.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\DoctorManagementSystem\bin\Debug\net6.0\DoctorManagementSystem.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.AssemblyInfoInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.AssemblyInfo.cs
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.csproj.CoreCompileInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\DoctorManagementSystem\obj\Debug\net6.0\refint\DoctorManagementSystem.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.genruntimeconfig.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\DoctorManagementSystem\obj\Debug\net6.0\ref\DoctorManagementSystem.dll

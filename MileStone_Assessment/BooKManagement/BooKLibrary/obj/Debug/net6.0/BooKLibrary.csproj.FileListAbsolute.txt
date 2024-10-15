@@ -1,0 +1,11 @@
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\BooKManagement\BooKLibrary\bin\Debug\net6.0\BooKLibrary.deps.json
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\BooKManagement\BooKLibrary\bin\Debug\net6.0\BooKLibrary.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\BooKManagement\BooKLibrary\bin\Debug\net6.0\BooKLibrary.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\BooKManagement\BooKLibrary\obj\Debug\net6.0\BooKLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\BooKManagement\BooKLibrary\obj\Debug\net6.0\BooKLibrary.AssemblyInfoInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\BooKManagement\BooKLibrary\obj\Debug\net6.0\BooKLibrary.AssemblyInfo.cs
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\BooKManagement\BooKLibrary\obj\Debug\net6.0\BooKLibrary.csproj.CoreCompileInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\BooKManagement\BooKLibrary\obj\Debug\net6.0\BooKLibrary.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\BooKManagement\BooKLibrary\obj\Debug\net6.0\refint\BooKLibrary.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\BooKManagement\BooKLibrary\obj\Debug\net6.0\BooKLibrary.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\BooKManagement\BooKLibrary\obj\Debug\net6.0\ref\BooKLibrary.dll

@@ -1,0 +1,4 @@
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\SeleniumAutomation\obj\Debug\net6.0\SeleniumAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\SeleniumAutomation\obj\Debug\net6.0\SeleniumAutomation.AssemblyInfoInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\SeleniumAutomation\obj\Debug\net6.0\SeleniumAutomation.AssemblyInfo.cs
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\SeleniumAutomation\obj\Debug\net6.0\SeleniumAutomation.csproj.CoreCompileInputs.cache
