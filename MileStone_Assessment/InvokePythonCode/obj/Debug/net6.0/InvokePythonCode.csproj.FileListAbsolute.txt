@@ -1,0 +1,14 @@
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\InvokePythonCode\bin\Debug\net6.0\InvokePythonCode.exe
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\InvokePythonCode\bin\Debug\net6.0\InvokePythonCode.deps.json
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\InvokePythonCode\bin\Debug\net6.0\InvokePythonCode.runtimeconfig.json
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\InvokePythonCode\bin\Debug\net6.0\InvokePythonCode.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\InvokePythonCode\bin\Debug\net6.0\InvokePythonCode.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\InvokePythonCode\obj\Debug\net6.0\InvokePythonCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\InvokePythonCode\obj\Debug\net6.0\InvokePythonCode.AssemblyInfoInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\InvokePythonCode\obj\Debug\net6.0\InvokePythonCode.AssemblyInfo.cs
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\InvokePythonCode\obj\Debug\net6.0\InvokePythonCode.csproj.CoreCompileInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\InvokePythonCode\obj\Debug\net6.0\InvokePythonCode.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\InvokePythonCode\obj\Debug\net6.0\refint\InvokePythonCode.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\InvokePythonCode\obj\Debug\net6.0\InvokePythonCode.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\InvokePythonCode\obj\Debug\net6.0\InvokePythonCode.genruntimeconfig.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\InvokePythonCode\obj\Debug\net6.0\ref\InvokePythonCode.dll

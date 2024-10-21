@@ -1,0 +1,10 @@
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Win32Control\bin\Debug\Win32Control.exe.config
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Win32Control\bin\Debug\Win32Control.exe
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Win32Control\bin\Debug\Win32Control.pdb
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Win32Control\obj\Debug\Win32Control.csproj.AssemblyReference.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Win32Control\obj\Debug\Win32Control.Form1.resources
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Win32Control\obj\Debug\Win32Control.Properties.Resources.resources
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Win32Control\obj\Debug\Win32Control.csproj.GenerateResource.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Win32Control\obj\Debug\Win32Control.csproj.CoreCompileInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Win32Control\obj\Debug\Win32Control.exe
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Win32Control\obj\Debug\Win32Control.pdb
