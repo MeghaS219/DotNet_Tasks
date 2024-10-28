@@ -1,10 +1,3 @@
-C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\SharePointLibraries.csproj.AssemblyReference.cache
-C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\Interop.NucleusNativeMessagingLib.dll
-C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\SharePointLibraries.csproj.ResolveComReference.cache
-C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\SharePointLibraries.GeneratedMSBuildEditorConfig.editorconfig
-C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\SharePointLibraries.AssemblyInfoInputs.cache
-C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\SharePointLibraries.AssemblyInfo.cs
-C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\SharePointLibraries.csproj.CoreCompileInputs.cache
 C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\bin\Debug\net6.0\SharePointLibraries.exe
 C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\bin\Debug\net6.0\SharePointLibraries.deps.json
 C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\bin\Debug\net6.0\SharePointLibraries.runtimeconfig.json
@@ -24,6 +17,13 @@ C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integr
 C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\bin\Debug\net6.0\Microsoft.SharePoint.Client.UserProfiles.dll
 C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\bin\Debug\net6.0\Microsoft.SharePoint.Client.WorkflowServices.dll
 C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\bin\Debug\net6.0\Microsoft.SharePoint.Client.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\SharePointLibraries.csproj.AssemblyReference.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\Interop.NucleusNativeMessagingLib.dll
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\SharePointLibraries.csproj.ResolveComReference.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\SharePointLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\SharePointLibraries.AssemblyInfoInputs.cache
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\SharePointLibraries.AssemblyInfo.cs
+C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\SharePointLibraries.csproj.CoreCompileInputs.cache
 C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\SharePointLibraries.csproj.CopyComplete
 C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\SharePointLibraries.dll
 C:\DotNetProjectsMS\Git\DotNet_Tasks\MileStone_Assessment\Assessment7\O365Integration\SharePointLibraries\obj\Debug\net6.0\refint\SharePointLibraries.dll

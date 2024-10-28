@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.Graph;
 using Microsoft.Identity.Client;
-using Microsoft.Graph.Auth; // Include this for ClientCredentialProvider
+using Microsoft.Graph.Authentication; // Include this for ClientCredentialProvider
 
 namespace O365Apps
 {

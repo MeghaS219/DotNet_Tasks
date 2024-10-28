@@ -1,22 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using Microsoft.Graph;
 using Microsoft.Graph.Models;
 using Microsoft.Identity.Client;
-
+using Microsoft.Kiota.Abstractions;
+using Microsoft.Kiota.Abstractions.Serialization;
+using Microsoft.Kiota.Abstractions.Store;
 
 namespace SharePointListRetriever
 {
     internal class Program
     {
-        private const string clientId = "YOUR_CLIENT_ID"; // Replace with your Client ID
-        private const string clientSecret = "YOUR_CLIENT_SECRET"; // Replace with your Client Secret
-        private const string tenantId = "YOUR_TENANT_ID"; // Replace with your Tenant ID
-        private const string sharePointSiteUrl = "https://yourtenant.sharepoint.com/sites/yoursite"; // Replace with your site URL
-        private const string listName = "Tasks"; // Replace with your list name
+        private const string clientId = "MeghaS219"; // Client ID
+        private const string clientSecret = "Megsv9mn"; // Client Secret
+        private const string tenantId = "MeghaTenent1"; //Tenant ID
+        private const string sharePointSiteUrl = "https://yourtenant.sharepoint.com/sites/SpringsS219"; // site URL
+        private const string listName = "task_list"; // list name
 
         static async Task Main(string[] args)
         {
@@ -61,10 +64,10 @@ namespace SharePointListRetriever
         private static async Task<IEnumerable<ListItem>> GetSharePointListItems(GraphServiceClient client, string siteUrl, string listName)
         {
             // Get the hostname and the site-relative path
-            var siteRelativePath = siteUrl.Replace("https://yourtenant.sharepoint.com", "").Trim('/');
+            var siteRelativePath = siteUrl.Replace("https://MeghaTenent1.sharepoint.com", "").Trim('/');
 
             // Get the site using the hostname and site-relative path
-            var site = await client.Sites["yourtenant.sharepoint.com"].Sites[siteRelativePath].Request().GetAsync();
+            var site = await client.Sites["MeghaTenent1.sharepoint.com"].Sites[siteRelativePath].Request().GetAsync();
 
             // Get the list by its name
             var list = await client.Sites[site.Id].Lists[listName].Request().GetAsync();

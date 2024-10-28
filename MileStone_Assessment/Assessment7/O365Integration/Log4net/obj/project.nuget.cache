@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "23QLA/p+x/+oiwqVaMjHYrw+nfx0n52XRHYp3ZsVV3VIYhbXoHq3Eu1XU9qmYEDDyTNt3K/oG1DJDabOCU5hSg==",
+  "dgSpecHash": "JXz6dKOAnTJ1vh2uON2h2yYD1E9zwDPYxWbQuaOBMtuV2XnFh0L5vXXoUoJVniX+Re94uARE/gDQ/pHkz73ZqQ==",
   "success": true,
   "projectFilePath": "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\MileStone_Assessment\\Assessment7\\O365Integration\\Log4net\\Log4netCode.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\log4net\\3.0.2\\log4net.3.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
