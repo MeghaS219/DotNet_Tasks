@@ -4,14 +4,18 @@ using System.Threading.Tasks;
 using Microsoft.Graph;
 using Microsoft.Identity.Client;
 using Microsoft.Graph.Authentication; // Include this for ClientCredentialProvider
+using Microsoft.Kiota.Abstractions;
+using Microsoft.Kiota.Abstractions.Serialization;
+using Microsoft.Kiota.Abstractions.Store;
+using System.Diagnostics.CodeAnalysis;
 
 namespace O365Apps
 {
     internal class Program
     {
-        private const string clientId = "YOUR_CLIENT_ID"; // Your Azure app client ID
-        private const string tenantId = "YOUR_TENANT_ID"; // Your Azure tenant ID
-        private const string clientSecret = "YOUR_CLIENT_SECRET"; // Your Azure app client secret
+        private const string clientId = "MeghaS219"; //  Azure app client ID
+        private const string tenantId = "MeghaTenent1"; //  Azure tenant ID
+        private const string clientSecret = "Megsv9mn"; //  Azure app client secret
 
         static async Task Main(string[] args)
         {
@@ -53,7 +57,7 @@ namespace O365Apps
                 .WithClientSecret(clientSecret)
                 .Build();
 
-            ClientCredentialProvider authProvider = new ClientCredentialProvider(app);
+            var authProvider = new ClientCredentialProvider(app);
             return new GraphServiceClient(authProvider);
         }
 
@@ -63,7 +67,7 @@ namespace O365Apps
             string siteName = uriParts.Length > 0 ? uriParts[0] : "";
 
             var site = await graphClient.Sites
-                .GetByPath(siteName, "yourtenant.sharepoint.com") // Adjust if necessary
+                .GetByPath(siteName, "MeghaTenent1.sharepoint.com")
                 .Request()
                 .GetAsync();
 
@@ -86,6 +90,55 @@ namespace O365Apps
             await graphClient.Sites[siteId].Lists[listName].Items[itemId]
                 .Request()
                 .UpdateAsync(listItem);
+        }
+    }
+
+    internal class ClientCredentialProvider : IRequestAdapter
+    {
+        private IConfidentialClientApplication app;
+
+        public ClientCredentialProvider(IConfidentialClientApplication app)
+        {
+            this.app = app;
+        }
+
+        public ISerializationWriterFactory SerializationWriterFactory => throw new NotImplementedException();
+
+        public string? BaseUrl { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
+        public Task<T?> ConvertToNativeRequestAsync<T>(RequestInformation requestInfo, CancellationToken cancellationToken = default)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void EnableBackingStore(IBackingStoreFactory backingStoreFactory)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<ModelType?> SendAsync<ModelType>(RequestInformation requestInfo, ParsableFactory<ModelType> factory, Dictionary<string, ParsableFactory<IParsable>>? errorMapping = null, CancellationToken cancellationToken = default) where ModelType : IParsable
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<IEnumerable<ModelType>?> SendCollectionAsync<ModelType>(RequestInformation requestInfo, ParsableFactory<ModelType> factory, Dictionary<string, ParsableFactory<IParsable>>? errorMapping = null, CancellationToken cancellationToken = default) where ModelType : IParsable
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task SendNoContentAsync(RequestInformation requestInfo, Dictionary<string, ParsableFactory<IParsable>>? errorMapping = null, CancellationToken cancellationToken = default)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<ModelType?> SendPrimitiveAsync<[DynamicallyAccessedMembers(DynamicallyAccessedMemberTypes.PublicFields)] ModelType>(RequestInformation requestInfo, Dictionary<string, ParsableFactory<IParsable>>? errorMapping = null, CancellationToken cancellationToken = default)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<IEnumerable<ModelType>?> SendPrimitiveCollectionAsync<[DynamicallyAccessedMembers(DynamicallyAccessedMemberTypes.PublicFields)] ModelType>(RequestInformation requestInfo, Dictionary<string, ParsableFactory<IParsable>>? errorMapping = null, CancellationToken cancellationToken = default)
+        {
+            throw new NotImplementedException();
         }
     }
 }
