@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bl+IhqqSjjoxvH7EN/gxQmRIo5lE6429uuEcbCmmf9RNetQxnlnM7e/O/HrM5WOGzgg1oOrlk6bMYYZFvJdACA==",
+  "success": true,
+  "projectFilePath": "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\MileStone_Assessment\\Assessment7\\O365Integration\\SharePointInteraction\\SharePointInteraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.sharepointonline.csom\\16.1.25311.12000\\microsoft.sharepointonline.csom.16.1.25311.12000.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dhrLZrK2uCO1js1YwXXtyga9aGFf6AveaRF0NBJAdmZmsRNabgMda4WeUE5s1znA4LtYsL5erc6eo1sGf9c9DA==",
+  "success": true,
+  "projectFilePath": "C:\\DotNetProjectsMS\\Git\\DotNet_Tasks\\MileStone_Assessment\\Assessment7\\O365Integration\\OutlookEmailSender\\OutlookEmailSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.office.interop.outlook\\15.0.4797.1004\\microsoft.office.interop.outlook.15.0.4797.1004.nupkg.sha512"
+  ],
+  "logs": []
+}
